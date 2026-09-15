@@ -1,2 +1,1 @@
-# website
-skyneuronai.in website
+# skyneuronai.in
